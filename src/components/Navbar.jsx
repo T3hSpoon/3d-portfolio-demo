@@ -13,6 +13,9 @@ const Navbar = () => {
         <NavLink to="/projects" className={({ isActive }) => (isActive ? 'text-blue-500' : 'text-black')}>
           Projects
         </NavLink>
+        <NavLink to="/plotly" className={({ isActive }) => (isActive ? 'text-blue-500' : 'text-black')}>
+          Plotly.JS
+        </NavLink>
       </nav>
     </header>
   );
