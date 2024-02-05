@@ -74,11 +74,11 @@ export const skills = [
 
 export const experiences = [
   {
-    title: 'React Developer',
-    company_name: 'Brai',
+    title: 'Frontend Developer',
+    company_name: 'Brainik',
     icon: starbucks,
     iconBg: '#accbe1',
-    date: 'March 2020 - April 2021',
+    date: 'March 2021 - April 2022',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -87,11 +87,11 @@ export const experiences = [
     ],
   },
   {
-    title: 'React Native Developer',
-    company_name: 'Tesla',
+    title: 'Frontend Developer',
+    company_name: 'Brainik',
     icon: tesla,
     iconBg: '#fbc3bc',
-    date: 'Jan 2021 - Feb 2022',
+    date: 'Apr 2022 - Feb 2022',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -100,11 +100,11 @@ export const experiences = [
     ],
   },
   {
-    title: 'Web Developer',
+    title: 'Frontend Developer',
     company_name: 'Shopify',
     icon: shopify,
     iconBg: '#b7e4c7',
-    date: 'Jan 2022 - Jan 2023',
+    date: 'Feb 2022 - Jan 2023',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -113,7 +113,7 @@ export const experiences = [
     ],
   },
   {
-    title: 'Full stack Developer',
+    title: 'Frontend Developer',
     company_name: 'Meta',
     icon: meta,
     iconBg: '#a2d2ff',
